@@ -1,0 +1,17 @@
+{
+  "name": "FLUI",
+  "description": "ForLife UI",
+  "version": "0.0.0",
+  "homepage": "https://github.com/itcommunity/FLUI",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.x.x",
+    "angular-mocks": "1.x.x",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.x.x",
+    "angular-route": "1.x.x",
+    "angular-resource": "1.x.x",
+    "angular-animate": "1.x.x"
+  }
+}
